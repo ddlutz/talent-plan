@@ -36,7 +36,7 @@ for details.
 
 [rust]: ./rust/
 [dss]: ./dss/
-[tidb]: ./tidb/
+[tidb]: ./talent-plan/tidb/
 
 [MIT 6.824]: http://nil.csail.mit.edu/6.824/2017/index.html
 [Raft]: https://raft.github.io/
